@@ -84,10 +84,7 @@ print(X_test)
 print(y_test)
 print("Length of X_test: ", len(X_test))
 
-
-
 ```
-
 ## OUTPUT:
 
 <img width="698" height="708" alt="image" src="https://github.com/user-attachments/assets/4c76807f-7297-4170-a5dd-8627717721aa" />
