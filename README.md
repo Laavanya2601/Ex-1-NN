@@ -1,7 +1,7 @@
 <H3> NAME: LAAVANYA R</H3>
 <H3> REGISTER NO: 212224230135</H3>
-<H3>EX. NO.1</H3>
-<H3>DATE</H3>
+<H3>EX.NO.1</H3>
+<H3>DATE: 26/10/2026</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
